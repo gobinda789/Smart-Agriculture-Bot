@@ -21,7 +21,4 @@ Smart Agriculture Bot is an autonomous and manually controlled robot designed to
 
 ---
 
-### 🚀 Installation & Setup  
-#### **1️⃣ Clone the Repository**  
-```bash
-git clone https://github.com/gobinda789/Smart-Agriculture-Bot.git
+
